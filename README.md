@@ -1,11 +1,10 @@
 # Python
 # Project Title: Credit Card Customer Churn Prediction #
 #Introduction
-Now-a-days it is observed that many customers apply for credit card service and 
-cancel it just after earning initial benefits like welcome bonus. This process of 
-opening and closing service is termed as credit card churning. Reduction of credit 
-card users in a company is a major red flag. Bank managers are concerned about 
-the loss. They would like to use the available data with the bank to identify what 
+Now-a-days it is observed that many customers apply for credit card service and cancel it just after earning initial benefits like welcome bonus. This process of 
+opening and closing service is termed as credit card churning. 
+Reduction of credit card users in a company is a major red flag. Bank managers are concerned about the loss.
+They would like to use the available data with the bank to identify what 
 factors are affecting customers to cancel the service and how it can be reduced. 
 Identifying factors that previously caused customers to churn could help the bank 
 in taking steps so that customers do not abandon. These factors can be identified 
